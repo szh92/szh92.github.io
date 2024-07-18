@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-我是石泽华 |北京中医药大学 
-Zehua SHI | Beijing University of Chinese Medicine  
+我是石泽华，北京中医药大学管理学院讲师。 
+
 
 
