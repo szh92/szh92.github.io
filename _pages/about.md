@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zehua Shi.
+我是石泽华 |北京中医药大学 
+Zehua SHI | Beijing University of Chinese Medicine  
 
 
