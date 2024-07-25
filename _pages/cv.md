@@ -18,20 +18,10 @@ Education
 Work experience
 ======
 * 2024.04-至今 北京中医药大学 管理学院 讲师
- # * 
- # * #Duties includes: Updates and improvements to template
- # * Supervisor: The Users
+
 
 * 2021.10-2024.03 北京大学 全国医学教育发展中心，博士后
- # * Github University
- # * Duties included: Merging pull requests
- # * Supervisor: Professor Hub
 
-# * Summer 2015: Research Assistant
-#  * Github University
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
