@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2021 年毕业于东京大学 经济学院，经济学博士
+* 2018 年毕业于东京大学 经济学院，经济学硕士
+* 2014 年毕业于西南交通大学 日语文学学士，经济学学士（双学位）
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.04-至今 北京中医药大学 管理学院 讲师
+ # * 
+ # * #Duties includes: Updates and improvements to template
+ # * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021.10-2024.03 北京大学 全国医学教育发展中心，博士后
+ # * Github University
+ # * Duties included: Merging pull requests
+ # * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+# * Summer 2015: Research Assistant
+#  * Github University
+#  * Duties included: Tagging issues
+#  * Supervisor: Professor Git
   
 Skills
 ======
