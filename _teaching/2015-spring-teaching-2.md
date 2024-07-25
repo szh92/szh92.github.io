@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "卫生量化研究方法"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "研究生课程"
+permalink: #/teaching/2015-spring-teaching-1
+venue: "北京中医药大学，管理学院"
+date: 2024-01-01
+location: #"City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+该课程主要讲授卫生经济学中常用的量化研究方法，包括基础的计量经济学、因果推断以及R语言等实战内容。
 
 Heading 1
 ======
