@@ -1,14 +1,6 @@
 ---
-
 title: 'Claude Code的Harness与Skill初探'
 date: 2026-06-14
-tags:
-
-* AI
-* Claude Code
-* Harness
-* Skills
-
 ---
 
 最近在朋友帮助下，开始尝试使用 Claude Code，并配合 WSL、Docker、Research Harness 和 Skill 构建一个相对安全、可复现、适合科研工作的 AI 环境。这里记录一下目前的理解。
