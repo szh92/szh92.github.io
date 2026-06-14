@@ -236,7 +236,7 @@ WSL（Linux）
 Docker Container
 ↓
 Claude Code
-第一步：Reopen in WSL
+# 第一步：Reopen in WSL
 
 首先在 VS Code 中选择 Reopen in WSL，进入 Linux 环境。
 
@@ -246,7 +246,7 @@ Claude Code
 
 Windows
 └── WSL(Ubuntu/Debian)
-第二步：Reopen in Container
+# 第二步：Reopen in Container
 
 进入 WSL 之后，再选择 Reopen in Container，进入 Docker 容器。
 
