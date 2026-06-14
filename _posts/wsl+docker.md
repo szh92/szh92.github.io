@@ -1,3 +1,11 @@
+---
+layout: post
+title: "WSL和Docker"
+date: 2026-06-14
+---
+
+
+
 可以把它理解成 **“在 Windows 里面套了一层 Linux，再在 Linux 里面放很多独立的小盒子”**。
 
 ## 1. WSL 是干什么的？
